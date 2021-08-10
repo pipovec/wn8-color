@@ -1,1 +1,1 @@
-wn8-color
+11 color scale for WN8 and Winrate values
