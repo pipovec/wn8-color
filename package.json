@@ -1,11 +1,14 @@
 {
   "name": "wn8-color",
   "version": "1.0.0",
-  "description": "",
+  "description": "11 color scale for WN8 and Winrate values ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Boris Fekar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "wn8-color": "github:pipovec/wn8-color"
+  }
 }
